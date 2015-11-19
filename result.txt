@@ -1,0 +1,716 @@
+		pnm.set_gid2node(0, 0)
+		pnm.set_gid2node(1, 0)
+		pnm.set_gid2node(2, 3)
+		pnm.set_gid2node(3, 2)
+		pnm.set_gid2node(4, 3)
+		pnm.set_gid2node(5, 3)
+		pnm.set_gid2node(6, 3)
+		pnm.set_gid2node(7, 1)
+		pnm.set_gid2node(8, 0)
+		pnm.set_gid2node(9, 0)
+		pnm.set_gid2node(10, 3)
+		pnm.set_gid2node(11, 0)
+		pnm.set_gid2node(12, 2)
+		pnm.set_gid2node(13, 0)
+		pnm.set_gid2node(14, 1)
+		pnm.set_gid2node(15, 3)
+		pnm.set_gid2node(16, 1)
+		pnm.set_gid2node(17, 1)
+		pnm.set_gid2node(18, 3)
+		pnm.set_gid2node(19, 0)
+		pnm.set_gid2node(20, 0)
+		pnm.set_gid2node(21, 2)
+		pnm.set_gid2node(22, 3)
+		pnm.set_gid2node(23, 0)
+		pnm.set_gid2node(24, 0)
+		pnm.set_gid2node(25, 0)
+		pnm.set_gid2node(26, 1)
+		pnm.set_gid2node(27, 1)
+		pnm.set_gid2node(28, 3)
+		pnm.set_gid2node(29, 3)
+		pnm.set_gid2node(30, 1)
+		pnm.set_gid2node(31, 3)
+		pnm.set_gid2node(32, 0)
+		pnm.set_gid2node(33, 0)
+		pnm.set_gid2node(34, 1)
+		pnm.set_gid2node(35, 0)
+		pnm.set_gid2node(36, 0)
+		pnm.set_gid2node(37, 0)
+		pnm.set_gid2node(38, 2)
+		pnm.set_gid2node(39, 1)
+		pnm.set_gid2node(40, 3)
+		pnm.set_gid2node(41, 0)
+		pnm.set_gid2node(42, 1)
+		pnm.set_gid2node(43, 1)
+		pnm.set_gid2node(44, 3)
+		pnm.set_gid2node(45, 1)
+		pnm.set_gid2node(46, 1)
+		pnm.set_gid2node(47, 0)
+		pnm.set_gid2node(48, 2)
+		pnm.set_gid2node(49, 1)
+		pnm.set_gid2node(50, 1)
+		pnm.set_gid2node(51, 0)
+		pnm.set_gid2node(52, 0)
+		pnm.set_gid2node(53, 1)
+		pnm.set_gid2node(54, 1)
+		pnm.set_gid2node(55, 2)
+		pnm.set_gid2node(56, 3)
+		pnm.set_gid2node(57, 1)
+		pnm.set_gid2node(58, 0)
+		pnm.set_gid2node(59, 2)
+		pnm.set_gid2node(60, 3)
+		pnm.set_gid2node(61, 3)
+		pnm.set_gid2node(62, 2)
+		pnm.set_gid2node(63, 2)
+		pnm.set_gid2node(64, 1)
+		pnm.set_gid2node(65, 0)
+		pnm.set_gid2node(66, 3)
+		pnm.set_gid2node(67, 1)
+		pnm.set_gid2node(68, 0)
+		pnm.set_gid2node(69, 1)
+		pnm.set_gid2node(70, 1)
+		pnm.set_gid2node(71, 3)
+		pnm.set_gid2node(72, 3)
+		pnm.set_gid2node(73, 3)
+		pnm.set_gid2node(74, 3)
+		pnm.set_gid2node(75, 2)
+		pnm.set_gid2node(76, 0)
+		pnm.set_gid2node(77, 0)
+		pnm.set_gid2node(78, 3)
+		pnm.set_gid2node(79, 0)
+		pnm.set_gid2node(80, 3)
+		pnm.set_gid2node(81, 3)
+		pnm.set_gid2node(82, 2)
+		pnm.set_gid2node(83, 2)
+		pnm.set_gid2node(84, 1)
+		pnm.set_gid2node(85, 2)
+		pnm.set_gid2node(86, 0)
+		pnm.set_gid2node(87, 2)
+		pnm.set_gid2node(88, 0)
+		pnm.set_gid2node(89, 0)
+		pnm.set_gid2node(90, 1)
+		pnm.set_gid2node(91, 2)
+		pnm.set_gid2node(92, 2)
+		pnm.set_gid2node(93, 2)
+		pnm.set_gid2node(94, 3)
+		pnm.set_gid2node(95, 1)
+		pnm.set_gid2node(96, 0)
+		pnm.set_gid2node(97, 1)
+		pnm.set_gid2node(98, 1)
+		pnm.set_gid2node(99, 2)
+		pnm.set_gid2node(100, 3)
+		pnm.set_gid2node(101, 3)
+		pnm.set_gid2node(102, 0)
+		pnm.set_gid2node(103, 2)
+		pnm.set_gid2node(104, 1)
+		pnm.set_gid2node(105, 2)
+		pnm.set_gid2node(106, 3)
+		pnm.set_gid2node(107, 1)
+		pnm.set_gid2node(108, 2)
+		pnm.set_gid2node(109, 0)
+		pnm.set_gid2node(110, 1)
+		pnm.set_gid2node(111, 1)
+		pnm.set_gid2node(112, 2)
+		pnm.set_gid2node(113, 3)
+		pnm.set_gid2node(114, 2)
+		pnm.set_gid2node(115, 1)
+		pnm.set_gid2node(116, 0)
+		pnm.set_gid2node(117, 0)
+		pnm.set_gid2node(118, 2)
+		pnm.set_gid2node(119, 2)
+		pnm.set_gid2node(120, 1)
+		pnm.set_gid2node(121, 3)
+		pnm.set_gid2node(122, 1)
+		pnm.set_gid2node(123, 1)
+		pnm.set_gid2node(124, 1)
+		pnm.set_gid2node(125, 3)
+		pnm.set_gid2node(126, 2)
+		pnm.set_gid2node(127, 1)
+		pnm.set_gid2node(128, 1)
+		pnm.set_gid2node(129, 0)
+		pnm.set_gid2node(130, 0)
+		pnm.set_gid2node(131, 0)
+		pnm.set_gid2node(132, 2)
+		pnm.set_gid2node(133, 2)
+		pnm.set_gid2node(134, 0)
+		pnm.set_gid2node(135, 3)
+		pnm.set_gid2node(136, 1)
+		pnm.set_gid2node(137, 0)
+		pnm.set_gid2node(138, 1)
+		pnm.set_gid2node(139, 2)
+		pnm.set_gid2node(140, 0)
+		pnm.set_gid2node(141, 1)
+		pnm.set_gid2node(142, 2)
+		pnm.set_gid2node(143, 1)
+		pnm.set_gid2node(144, 0)
+		pnm.set_gid2node(145, 3)
+		pnm.set_gid2node(146, 3)
+		pnm.set_gid2node(147, 2)
+		pnm.set_gid2node(148, 1)
+		pnm.set_gid2node(149, 2)
+		pnm.set_gid2node(150, 2)
+		pnm.set_gid2node(151, 1)
+		pnm.set_gid2node(152, 0)
+		pnm.set_gid2node(153, 2)
+		pnm.set_gid2node(154, 0)
+		pnm.set_gid2node(155, 2)
+		pnm.set_gid2node(156, 3)
+		pnm.set_gid2node(157, 2)
+		pnm.set_gid2node(158, 3)
+		pnm.set_gid2node(159, 2)
+		pnm.set_gid2node(160, 3)
+		pnm.set_gid2node(161, 2)
+		pnm.set_gid2node(162, 3)
+		pnm.set_gid2node(163, 1)
+		pnm.set_gid2node(164, 1)
+		pnm.set_gid2node(165, 0)
+		pnm.set_gid2node(166, 2)
+		pnm.set_gid2node(167, 2)
+		pnm.set_gid2node(168, 1)
+		pnm.set_gid2node(169, 2)
+		pnm.set_gid2node(170, 0)
+		pnm.set_gid2node(171, 3)
+		pnm.set_gid2node(172, 3)
+		pnm.set_gid2node(173, 3)
+		pnm.set_gid2node(174, 0)
+		pnm.set_gid2node(175, 1)
+		pnm.set_gid2node(176, 1)
+		pnm.set_gid2node(177, 2)
+		pnm.set_gid2node(178, 2)
+		pnm.set_gid2node(179, 0)
+		pnm.set_gid2node(180, 2)
+		pnm.set_gid2node(181, 2)
+		pnm.set_gid2node(182, 0)
+		pnm.set_gid2node(183, 1)
+		pnm.set_gid2node(184, 1)
+		pnm.set_gid2node(185, 0)
+		pnm.set_gid2node(186, 3)
+		pnm.set_gid2node(187, 3)
+		pnm.set_gid2node(188, 2)
+		pnm.set_gid2node(189, 3)
+		pnm.set_gid2node(190, 3)
+		pnm.set_gid2node(191, 0)
+		pnm.set_gid2node(192, 3)
+		pnm.set_gid2node(193, 1)
+		pnm.set_gid2node(194, 1)
+		pnm.set_gid2node(195, 1)
+		pnm.set_gid2node(196, 0)
+		pnm.set_gid2node(197, 1)
+		pnm.set_gid2node(198, 0)
+		pnm.set_gid2node(199, 3)
+		pnm.set_gid2node(200, 3)
+		pnm.set_gid2node(201, 3)
+		pnm.set_gid2node(202, 0)
+		pnm.set_gid2node(203, 0)
+		pnm.set_gid2node(204, 0)
+		pnm.set_gid2node(205, 2)
+		pnm.set_gid2node(206, 3)
+		pnm.set_gid2node(207, 0)
+		pnm.set_gid2node(208, 3)
+		pnm.set_gid2node(209, 3)
+		pnm.set_gid2node(210, 3)
+		pnm.set_gid2node(211, 1)
+		pnm.set_gid2node(212, 2)
+		pnm.set_gid2node(213, 3)
+		pnm.set_gid2node(214, 3)
+		pnm.set_gid2node(215, 2)
+		pnm.set_gid2node(216, 1)
+		pnm.set_gid2node(217, 1)
+		pnm.set_gid2node(218, 3)
+		pnm.set_gid2node(219, 3)
+		pnm.set_gid2node(220, 1)
+		pnm.set_gid2node(221, 0)
+		pnm.set_gid2node(222, 1)
+		pnm.set_gid2node(223, 2)
+		pnm.set_gid2node(224, 2)
+		pnm.set_gid2node(225, 2)
+		pnm.set_gid2node(226, 3)
+		pnm.set_gid2node(227, 3)
+		pnm.set_gid2node(228, 1)
+		pnm.set_gid2node(229, 3)
+		pnm.set_gid2node(230, 3)
+		pnm.set_gid2node(231, 2)
+		pnm.set_gid2node(232, 3)
+		pnm.set_gid2node(233, 1)
+		pnm.set_gid2node(234, 3)
+		pnm.set_gid2node(235, 2)
+		pnm.set_gid2node(236, 0)
+		pnm.set_gid2node(237, 1)
+		pnm.set_gid2node(238, 1)
+		pnm.set_gid2node(239, 3)
+		pnm.set_gid2node(240, 1)
+		pnm.set_gid2node(241, 1)
+		pnm.set_gid2node(242, 1)
+		pnm.set_gid2node(243, 3)
+		pnm.set_gid2node(244, 0)
+		pnm.set_gid2node(245, 0)
+		pnm.set_gid2node(246, 0)
+		pnm.set_gid2node(247, 2)
+		pnm.set_gid2node(248, 2)
+		pnm.set_gid2node(249, 0)
+		pnm.set_gid2node(250, 0)
+		pnm.set_gid2node(251, 2)
+		pnm.set_gid2node(252, 2)
+		pnm.set_gid2node(253, 2)
+		pnm.set_gid2node(254, 3)
+		pnm.set_gid2node(255, 2)
+		pnm.set_gid2node(256, 3)
+		pnm.set_gid2node(257, 1)
+		pnm.set_gid2node(258, 2)
+		pnm.set_gid2node(259, 1)
+		pnm.set_gid2node(260, 0)
+		pnm.set_gid2node(261, 2)
+		pnm.set_gid2node(262, 3)
+		pnm.set_gid2node(263, 0)
+		pnm.set_gid2node(264, 1)
+		pnm.set_gid2node(265, 2)
+		pnm.set_gid2node(266, 0)
+		pnm.set_gid2node(267, 0)
+		pnm.set_gid2node(268, 2)
+		pnm.set_gid2node(269, 2)
+		pnm.set_gid2node(270, 0)
+		pnm.set_gid2node(271, 2)
+		pnm.set_gid2node(272, 3)
+		pnm.set_gid2node(273, 3)
+		pnm.set_gid2node(274, 0)
+		pnm.set_gid2node(275, 3)
+		pnm.set_gid2node(276, 2)
+		pnm.set_gid2node(277, 0)
+		pnm.set_gid2node(278, 3)
+		pnm.set_gid2node(279, 1)
+		pnm.set_gid2node(280, 0)
+		pnm.set_gid2node(281, 0)
+		pnm.set_gid2node(282, 0)
+		pnm.set_gid2node(283, 0)
+		pnm.set_gid2node(284, 0)
+		pnm.set_gid2node(285, 0)
+		pnm.set_gid2node(286, 3)
+		pnm.set_gid2node(287, 1)
+		pnm.set_gid2node(288, 2)
+		pnm.set_gid2node(289, 3)
+		pnm.set_gid2node(290, 1)
+		pnm.set_gid2node(291, 3)
+		pnm.set_gid2node(292, 0)
+		pnm.set_gid2node(293, 1)
+		pnm.set_gid2node(294, 0)
+		pnm.set_gid2node(295, 3)
+		pnm.set_gid2node(296, 3)
+		pnm.set_gid2node(297, 1)
+		pnm.set_gid2node(298, 1)
+		pnm.set_gid2node(299, 1)
+		pnm.set_gid2node(300, 3)
+		pnm.set_gid2node(301, 0)
+		pnm.set_gid2node(302, 3)
+		pnm.set_gid2node(303, 1)
+		pnm.set_gid2node(304, 1)
+		pnm.set_gid2node(305, 2)
+		pnm.set_gid2node(306, 2)
+		pnm.set_gid2node(307, 2)
+		pnm.set_gid2node(308, 0)
+		pnm.set_gid2node(309, 3)
+		pnm.set_gid2node(310, 2)
+		pnm.set_gid2node(311, 0)
+		pnm.set_gid2node(312, 0)
+		pnm.set_gid2node(313, 1)
+		pnm.set_gid2node(314, 0)
+		pnm.set_gid2node(315, 0)
+		pnm.set_gid2node(316, 2)
+		pnm.set_gid2node(317, 3)
+		pnm.set_gid2node(318, 2)
+		pnm.set_gid2node(319, 3)
+		pnm.set_gid2node(320, 1)
+		pnm.set_gid2node(321, 2)
+		pnm.set_gid2node(322, 0)
+		pnm.set_gid2node(323, 0)
+		pnm.set_gid2node(324, 0)
+		pnm.set_gid2node(325, 3)
+		pnm.set_gid2node(326, 3)
+		pnm.set_gid2node(327, 3)
+		pnm.set_gid2node(328, 2)
+		pnm.set_gid2node(329, 2)
+		pnm.set_gid2node(330, 3)
+		pnm.set_gid2node(331, 2)
+		pnm.set_gid2node(332, 2)
+		pnm.set_gid2node(333, 3)
+		pnm.set_gid2node(334, 0)
+		pnm.set_gid2node(335, 3)
+		pnm.set_gid2node(336, 2)
+		pnm.set_gid2node(337, 0)
+		pnm.set_gid2node(338, 3)
+		pnm.set_gid2node(339, 1)
+		pnm.set_gid2node(340, 2)
+		pnm.set_gid2node(341, 1)
+		pnm.set_gid2node(342, 1)
+		pnm.set_gid2node(343, 1)
+		pnm.set_gid2node(344, 1)
+		pnm.set_gid2node(345, 1)
+		pnm.set_gid2node(346, 2)
+		pnm.set_gid2node(347, 1)
+		pnm.set_gid2node(348, 1)
+		pnm.set_gid2node(349, 2)
+		pnm.set_gid2node(350, 2)
+		pnm.set_gid2node(351, 2)
+		pnm.set_gid2node(352, 2)
+		pnm.set_gid2node(353, 2)
+		pnm.set_gid2node(354, 2)
+		pnm.set_gid2node(355, 2)
+		num_local_ncells.append(89)
+		map_matrix.x[0][0] = 0
+		map_matrix.x[0][1] = 1
+		map_matrix.x[0][2] = 8
+		map_matrix.x[0][3] = 9
+		map_matrix.x[0][4] = 11
+		map_matrix.x[0][5] = 13
+		map_matrix.x[0][6] = 19
+		map_matrix.x[0][7] = 20
+		map_matrix.x[0][8] = 23
+		map_matrix.x[0][9] = 24
+		map_matrix.x[0][10] = 25
+		map_matrix.x[0][11] = 32
+		map_matrix.x[0][12] = 33
+		map_matrix.x[0][13] = 35
+		map_matrix.x[0][14] = 36
+		map_matrix.x[0][15] = 37
+		map_matrix.x[0][16] = 41
+		map_matrix.x[0][17] = 47
+		map_matrix.x[0][18] = 51
+		map_matrix.x[0][19] = 52
+		map_matrix.x[0][20] = 58
+		map_matrix.x[0][21] = 65
+		map_matrix.x[0][22] = 68
+		map_matrix.x[0][23] = 76
+		map_matrix.x[0][24] = 77
+		map_matrix.x[0][25] = 79
+		map_matrix.x[0][26] = 86
+		map_matrix.x[0][27] = 88
+		map_matrix.x[0][28] = 89
+		map_matrix.x[0][29] = 96
+		map_matrix.x[0][30] = 102
+		map_matrix.x[0][31] = 109
+		map_matrix.x[0][32] = 116
+		map_matrix.x[0][33] = 117
+		map_matrix.x[0][34] = 129
+		map_matrix.x[0][35] = 130
+		map_matrix.x[0][36] = 131
+		map_matrix.x[0][37] = 134
+		map_matrix.x[0][38] = 137
+		map_matrix.x[0][39] = 140
+		map_matrix.x[0][40] = 144
+		map_matrix.x[0][41] = 152
+		map_matrix.x[0][42] = 154
+		map_matrix.x[0][43] = 165
+		map_matrix.x[0][44] = 170
+		map_matrix.x[0][45] = 174
+		map_matrix.x[0][46] = 179
+		map_matrix.x[0][47] = 182
+		map_matrix.x[0][48] = 185
+		map_matrix.x[0][49] = 191
+		map_matrix.x[0][50] = 196
+		map_matrix.x[0][51] = 198
+		map_matrix.x[0][52] = 202
+		map_matrix.x[0][53] = 203
+		map_matrix.x[0][54] = 204
+		map_matrix.x[0][55] = 207
+		map_matrix.x[0][56] = 221
+		map_matrix.x[0][57] = 236
+		map_matrix.x[0][58] = 244
+		map_matrix.x[0][59] = 245
+		map_matrix.x[0][60] = 246
+		map_matrix.x[0][61] = 249
+		map_matrix.x[0][62] = 250
+		map_matrix.x[0][63] = 260
+		map_matrix.x[0][64] = 263
+		map_matrix.x[0][65] = 266
+		map_matrix.x[0][66] = 267
+		map_matrix.x[0][67] = 270
+		map_matrix.x[0][68] = 274
+		map_matrix.x[0][69] = 277
+		map_matrix.x[0][70] = 280
+		map_matrix.x[0][71] = 281
+		map_matrix.x[0][72] = 282
+		map_matrix.x[0][73] = 283
+		map_matrix.x[0][74] = 284
+		map_matrix.x[0][75] = 285
+		map_matrix.x[0][76] = 292
+		map_matrix.x[0][77] = 294
+		map_matrix.x[0][78] = 301
+		map_matrix.x[0][79] = 308
+		map_matrix.x[0][80] = 311
+		map_matrix.x[0][81] = 312
+		map_matrix.x[0][82] = 314
+		map_matrix.x[0][83] = 315
+		map_matrix.x[0][84] = 322
+		map_matrix.x[0][85] = 323
+		map_matrix.x[0][86] = 324
+		map_matrix.x[0][87] = 334
+		map_matrix.x[0][88] = 337
+		num_local_ncells.append(89)
+		map_matrix.x[1][0] = 7
+		map_matrix.x[1][1] = 14
+		map_matrix.x[1][2] = 16
+		map_matrix.x[1][3] = 17
+		map_matrix.x[1][4] = 26
+		map_matrix.x[1][5] = 27
+		map_matrix.x[1][6] = 30
+		map_matrix.x[1][7] = 34
+		map_matrix.x[1][8] = 39
+		map_matrix.x[1][9] = 42
+		map_matrix.x[1][10] = 43
+		map_matrix.x[1][11] = 45
+		map_matrix.x[1][12] = 46
+		map_matrix.x[1][13] = 49
+		map_matrix.x[1][14] = 50
+		map_matrix.x[1][15] = 53
+		map_matrix.x[1][16] = 54
+		map_matrix.x[1][17] = 57
+		map_matrix.x[1][18] = 64
+		map_matrix.x[1][19] = 67
+		map_matrix.x[1][20] = 69
+		map_matrix.x[1][21] = 70
+		map_matrix.x[1][22] = 84
+		map_matrix.x[1][23] = 90
+		map_matrix.x[1][24] = 95
+		map_matrix.x[1][25] = 97
+		map_matrix.x[1][26] = 98
+		map_matrix.x[1][27] = 104
+		map_matrix.x[1][28] = 107
+		map_matrix.x[1][29] = 110
+		map_matrix.x[1][30] = 111
+		map_matrix.x[1][31] = 115
+		map_matrix.x[1][32] = 120
+		map_matrix.x[1][33] = 122
+		map_matrix.x[1][34] = 123
+		map_matrix.x[1][35] = 124
+		map_matrix.x[1][36] = 127
+		map_matrix.x[1][37] = 128
+		map_matrix.x[1][38] = 136
+		map_matrix.x[1][39] = 138
+		map_matrix.x[1][40] = 141
+		map_matrix.x[1][41] = 143
+		map_matrix.x[1][42] = 148
+		map_matrix.x[1][43] = 151
+		map_matrix.x[1][44] = 163
+		map_matrix.x[1][45] = 164
+		map_matrix.x[1][46] = 168
+		map_matrix.x[1][47] = 175
+		map_matrix.x[1][48] = 176
+		map_matrix.x[1][49] = 183
+		map_matrix.x[1][50] = 184
+		map_matrix.x[1][51] = 193
+		map_matrix.x[1][52] = 194
+		map_matrix.x[1][53] = 195
+		map_matrix.x[1][54] = 197
+		map_matrix.x[1][55] = 211
+		map_matrix.x[1][56] = 216
+		map_matrix.x[1][57] = 217
+		map_matrix.x[1][58] = 220
+		map_matrix.x[1][59] = 222
+		map_matrix.x[1][60] = 228
+		map_matrix.x[1][61] = 233
+		map_matrix.x[1][62] = 237
+		map_matrix.x[1][63] = 238
+		map_matrix.x[1][64] = 240
+		map_matrix.x[1][65] = 241
+		map_matrix.x[1][66] = 242
+		map_matrix.x[1][67] = 257
+		map_matrix.x[1][68] = 259
+		map_matrix.x[1][69] = 264
+		map_matrix.x[1][70] = 279
+		map_matrix.x[1][71] = 287
+		map_matrix.x[1][72] = 290
+		map_matrix.x[1][73] = 293
+		map_matrix.x[1][74] = 297
+		map_matrix.x[1][75] = 298
+		map_matrix.x[1][76] = 299
+		map_matrix.x[1][77] = 303
+		map_matrix.x[1][78] = 304
+		map_matrix.x[1][79] = 313
+		map_matrix.x[1][80] = 320
+		map_matrix.x[1][81] = 339
+		map_matrix.x[1][82] = 341
+		map_matrix.x[1][83] = 342
+		map_matrix.x[1][84] = 343
+		map_matrix.x[1][85] = 344
+		map_matrix.x[1][86] = 345
+		map_matrix.x[1][87] = 347
+		map_matrix.x[1][88] = 348
+		num_local_ncells.append(89)
+		map_matrix.x[2][0] = 3
+		map_matrix.x[2][1] = 12
+		map_matrix.x[2][2] = 21
+		map_matrix.x[2][3] = 38
+		map_matrix.x[2][4] = 48
+		map_matrix.x[2][5] = 55
+		map_matrix.x[2][6] = 59
+		map_matrix.x[2][7] = 62
+		map_matrix.x[2][8] = 63
+		map_matrix.x[2][9] = 75
+		map_matrix.x[2][10] = 82
+		map_matrix.x[2][11] = 83
+		map_matrix.x[2][12] = 85
+		map_matrix.x[2][13] = 87
+		map_matrix.x[2][14] = 91
+		map_matrix.x[2][15] = 92
+		map_matrix.x[2][16] = 93
+		map_matrix.x[2][17] = 99
+		map_matrix.x[2][18] = 103
+		map_matrix.x[2][19] = 105
+		map_matrix.x[2][20] = 108
+		map_matrix.x[2][21] = 112
+		map_matrix.x[2][22] = 114
+		map_matrix.x[2][23] = 118
+		map_matrix.x[2][24] = 119
+		map_matrix.x[2][25] = 126
+		map_matrix.x[2][26] = 132
+		map_matrix.x[2][27] = 133
+		map_matrix.x[2][28] = 139
+		map_matrix.x[2][29] = 142
+		map_matrix.x[2][30] = 147
+		map_matrix.x[2][31] = 149
+		map_matrix.x[2][32] = 150
+		map_matrix.x[2][33] = 153
+		map_matrix.x[2][34] = 155
+		map_matrix.x[2][35] = 157
+		map_matrix.x[2][36] = 159
+		map_matrix.x[2][37] = 161
+		map_matrix.x[2][38] = 166
+		map_matrix.x[2][39] = 167
+		map_matrix.x[2][40] = 169
+		map_matrix.x[2][41] = 177
+		map_matrix.x[2][42] = 178
+		map_matrix.x[2][43] = 180
+		map_matrix.x[2][44] = 181
+		map_matrix.x[2][45] = 188
+		map_matrix.x[2][46] = 205
+		map_matrix.x[2][47] = 212
+		map_matrix.x[2][48] = 215
+		map_matrix.x[2][49] = 223
+		map_matrix.x[2][50] = 224
+		map_matrix.x[2][51] = 225
+		map_matrix.x[2][52] = 231
+		map_matrix.x[2][53] = 235
+		map_matrix.x[2][54] = 247
+		map_matrix.x[2][55] = 248
+		map_matrix.x[2][56] = 251
+		map_matrix.x[2][57] = 252
+		map_matrix.x[2][58] = 253
+		map_matrix.x[2][59] = 255
+		map_matrix.x[2][60] = 258
+		map_matrix.x[2][61] = 261
+		map_matrix.x[2][62] = 265
+		map_matrix.x[2][63] = 268
+		map_matrix.x[2][64] = 269
+		map_matrix.x[2][65] = 271
+		map_matrix.x[2][66] = 276
+		map_matrix.x[2][67] = 288
+		map_matrix.x[2][68] = 305
+		map_matrix.x[2][69] = 306
+		map_matrix.x[2][70] = 307
+		map_matrix.x[2][71] = 310
+		map_matrix.x[2][72] = 316
+		map_matrix.x[2][73] = 318
+		map_matrix.x[2][74] = 321
+		map_matrix.x[2][75] = 328
+		map_matrix.x[2][76] = 329
+		map_matrix.x[2][77] = 331
+		map_matrix.x[2][78] = 332
+		map_matrix.x[2][79] = 336
+		map_matrix.x[2][80] = 340
+		map_matrix.x[2][81] = 346
+		map_matrix.x[2][82] = 349
+		map_matrix.x[2][83] = 350
+		map_matrix.x[2][84] = 351
+		map_matrix.x[2][85] = 352
+		map_matrix.x[2][86] = 353
+		map_matrix.x[2][87] = 354
+		map_matrix.x[2][88] = 355
+		num_local_ncells.append(89)
+		map_matrix.x[3][0] = 2
+		map_matrix.x[3][1] = 4
+		map_matrix.x[3][2] = 5
+		map_matrix.x[3][3] = 6
+		map_matrix.x[3][4] = 10
+		map_matrix.x[3][5] = 15
+		map_matrix.x[3][6] = 18
+		map_matrix.x[3][7] = 22
+		map_matrix.x[3][8] = 28
+		map_matrix.x[3][9] = 29
+		map_matrix.x[3][10] = 31
+		map_matrix.x[3][11] = 40
+		map_matrix.x[3][12] = 44
+		map_matrix.x[3][13] = 56
+		map_matrix.x[3][14] = 60
+		map_matrix.x[3][15] = 61
+		map_matrix.x[3][16] = 66
+		map_matrix.x[3][17] = 71
+		map_matrix.x[3][18] = 72
+		map_matrix.x[3][19] = 73
+		map_matrix.x[3][20] = 74
+		map_matrix.x[3][21] = 78
+		map_matrix.x[3][22] = 80
+		map_matrix.x[3][23] = 81
+		map_matrix.x[3][24] = 94
+		map_matrix.x[3][25] = 100
+		map_matrix.x[3][26] = 101
+		map_matrix.x[3][27] = 106
+		map_matrix.x[3][28] = 113
+		map_matrix.x[3][29] = 121
+		map_matrix.x[3][30] = 125
+		map_matrix.x[3][31] = 135
+		map_matrix.x[3][32] = 145
+		map_matrix.x[3][33] = 146
+		map_matrix.x[3][34] = 156
+		map_matrix.x[3][35] = 158
+		map_matrix.x[3][36] = 160
+		map_matrix.x[3][37] = 162
+		map_matrix.x[3][38] = 171
+		map_matrix.x[3][39] = 172
+		map_matrix.x[3][40] = 173
+		map_matrix.x[3][41] = 186
+		map_matrix.x[3][42] = 187
+		map_matrix.x[3][43] = 189
+		map_matrix.x[3][44] = 190
+		map_matrix.x[3][45] = 192
+		map_matrix.x[3][46] = 199
+		map_matrix.x[3][47] = 200
+		map_matrix.x[3][48] = 201
+		map_matrix.x[3][49] = 206
+		map_matrix.x[3][50] = 208
+		map_matrix.x[3][51] = 209
+		map_matrix.x[3][52] = 210
+		map_matrix.x[3][53] = 213
+		map_matrix.x[3][54] = 214
+		map_matrix.x[3][55] = 218
+		map_matrix.x[3][56] = 219
+		map_matrix.x[3][57] = 226
+		map_matrix.x[3][58] = 227
+		map_matrix.x[3][59] = 229
+		map_matrix.x[3][60] = 230
+		map_matrix.x[3][61] = 232
+		map_matrix.x[3][62] = 234
+		map_matrix.x[3][63] = 239
+		map_matrix.x[3][64] = 243
+		map_matrix.x[3][65] = 254
+		map_matrix.x[3][66] = 256
+		map_matrix.x[3][67] = 262
+		map_matrix.x[3][68] = 272
+		map_matrix.x[3][69] = 273
+		map_matrix.x[3][70] = 275
+		map_matrix.x[3][71] = 278
+		map_matrix.x[3][72] = 286
+		map_matrix.x[3][73] = 289
+		map_matrix.x[3][74] = 291
+		map_matrix.x[3][75] = 295
+		map_matrix.x[3][76] = 296
+		map_matrix.x[3][77] = 300
+		map_matrix.x[3][78] = 302
+		map_matrix.x[3][79] = 309
+		map_matrix.x[3][80] = 317
+		map_matrix.x[3][81] = 319
+		map_matrix.x[3][82] = 325
+		map_matrix.x[3][83] = 326
+		map_matrix.x[3][84] = 327
+		map_matrix.x[3][85] = 330
+		map_matrix.x[3][86] = 333
+		map_matrix.x[3][87] = 335
+		map_matrix.x[3][88] = 338
